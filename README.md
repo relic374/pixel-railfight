@@ -43,5 +43,6 @@ Download the game [here](https://cmspeedrunner.itch.io/pixel-railfight)<br>
 
 Over time I will be adding more guides<br>
 I also plan on creating a modding software (named PDC, Pixel Data Compiler), that should be out in the hear future
+In addition to that, I will be creating a software that allows simple and easy complimation. It would allow you to also add a custom icon for your mod! I plan on releasing this within the week (project Hydro).
 
 (Disclaimer: I did got permission from the creator to upload this)
