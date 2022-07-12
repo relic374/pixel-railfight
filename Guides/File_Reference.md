@@ -16,7 +16,7 @@ Note: if it has (???) next to it, that means that I am uncertain what the exact 
 7. Code 6 - Base level script that CmSpeedrunner copies everytime he makes a new level. Only contains the player, the ground, and the background (Cm)
 8. Code 7 - Level 1 script
 9. Code 8 - Game completion script (Cm)
-10. Code 9 - Script for what order the levels go in and other related logic
+10. Code 9 - Level select scene
 11. Code 10 - Pause scene script
 12. Code 11 - Possibly something for guns/shooting (???)
 13. Code 12 - A testing scene, has no practical use (Cm)
