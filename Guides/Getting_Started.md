@@ -75,7 +75,7 @@ The executable should be located in the new folder titled `release-builds`
 
 Conclusion
 -----
-And thats all you need to get started! The next guide (`Modding.md`), I will show how you'd actually mod the game!
+And thats all you need to get started!
 Thanks for reading!
 
 Written by Relic374 (Mon Jul 11 2022)
