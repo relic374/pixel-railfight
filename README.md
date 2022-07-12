@@ -36,7 +36,9 @@ if you're on Linux:
 2. File_Refference - Explainations of what every code##.js file contains
 
 To be added:
-1. Guides on how to actually mod it 
+1. How to edit main.js
+2. How to switch/replace textures
+3. What the global modifiers at the top of `data.js` do
 
 ## More info
 
