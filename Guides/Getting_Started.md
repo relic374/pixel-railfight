@@ -3,6 +3,8 @@
 This is a guide on how to get started modding CmSpeedrunner's game Pixel Railfight
 This will explain how to change aspects of the game without the need for an external editor
 
+***This file is obsolete because if you downloaded this repo, it will already be set up like this***
+
 You will need:
 - A terminal app such as PowerShell, iTerm, or Terminal
 - NPM (Node Package Manager. You may also need [Node JS](https://nodejs.org/en/))
