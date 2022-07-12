@@ -34,8 +34,9 @@ if you're on Linux:
 
 1. Getting_Started.md - Guide for getting started if you wanted to create what this repo has from scratch
 2. File_Refference - Explainations of what every code##.js file contains
-To be added:<br>
-3. Guides on how to actually mod it 
+
+To be added:
+1. Guides on how to actually mod it 
 
 ## More info
 
