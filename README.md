@@ -28,7 +28,7 @@ If you're on MacOS:
 if you're on Linux:
  `electron-packager . pixel-railfight-mod --overwrite --asar=true --platform=linux --arch=x64 --prune=true --out=release-builds`
 
-**NOTE: If you get an error about your architecture/arch, replace the `x64` in `--arch=x69` or the `ia32` in `--arch=ia32` with your computer's architecture
+**NOTE: If you get an error about your architecture/arch, replace the `x64` in `--arch=x69` or the `ia32` in `--arch=ia32` with your computer's architecture**
 
 ## Guides
 
