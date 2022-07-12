@@ -12,6 +12,7 @@ Dependencies:<br>
 Building:<br>
 1. Download this repo `git clone https://github.com/relic374/pixel-railfight`
 2. `cd` into `PixelRailfight/`
+3. Unzip `node_modules.zip`
 
 Then, execute this command in the t
 If you're on windows:
