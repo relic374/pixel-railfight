@@ -1,0 +1,15 @@
+{
+  "name": "pixel_32railfight",
+  "main": "main.js",
+  "productName": "Pixel Railfight",
+  "description": "Pixel Railfight",
+  "author": "CmSpeedrunner",
+  "version": "1.0.0",
+  "dependencies": {
+    "@electron/remote": "^2.0.8"
+  },
+  "devDependencies": {
+    "electron": "^19.0.8", 
+    "electron-packager": "^15.5.1"
+  }
+}
