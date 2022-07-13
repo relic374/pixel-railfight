@@ -12,7 +12,7 @@ Note: if it has (???) next to it, that means that I am uncertain what the exact 
 3. Code 2 - Level 3 script
 4. Code 3 - Level 4 script
 5. Code 4 - Level 5 script
-6. Code 5 - Error script (???)
+6. Code 5 - Script for Yoni boss fight
 7. Code 6 - Base level script that CmSpeedrunner copies everytime he makes a new level. Only contains the player, the ground, and the background (Cm)
 8. Code 7 - Level 1 script
 9. Code 8 - Game completion script (Cm)
