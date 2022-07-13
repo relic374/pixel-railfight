@@ -15,17 +15,13 @@ Building:<br>
 3. Unzip `node_modules.zip`
 
 If you want to create a windows app:
-`electron-packager . electron-tutorial-app --overwrite\
- --asar=true\
- --platform=win32 --arch=ia32\
- --prune=true --out=release-builds\
- --version-string.CompanyName=CE --version-string.FileDescription=CE --version-string.ProductName="Pixel Railfight Mod"`
+`electron-packager . pixelrailfight-mod --platform=win32 --asar --overwrite"`
  
 If you want to create a MacOS app:
- `electron-packager . --overwrite --platform=darwin --arch=x64 --prune=true --out=release-builds`
+ `electron-packager . --overwrite --platform=darwin --arch=x64 --prune=true --out=release-builds --asar`
 
 If you want to create a Linux app:
- `electron-packager . pixel-railfight-mod --overwrite --asar=true --platform=linux --arch=x64 --prune=true --out=release-builds`
+ `electron-packager . pixel-railfight-mod --overwrite --asar --platform=linux --arch=x64 --prune=true --out=release-builds`
 
 **NOTE: If you get an error about your architecture/arch, replace the `x64` in `--arch=x69` or the `ia32` in `--arch=ia32` with your computer's architecture**
 
