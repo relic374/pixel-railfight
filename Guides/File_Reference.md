@@ -18,7 +18,7 @@ Note: if it has (???) next to it, that means that I am uncertain what the exact 
 9. Code 8 - Game completion script (Cm)
 10. Code 9 - Level select scene
 11. Code 10 - Pause scene script
-12. Code 11 - Possibly something for guns/shooting (???)
+12. Code 11 - Unused test scene
 13. Code 12 - A testing scene, has no practical use (Cm)
 14. Code 13 - Modified version of the title screen (Cm)
 15. Code 14 - Untitled. Doesn't appear like the scene is in use
