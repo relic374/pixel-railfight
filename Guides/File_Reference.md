@@ -1,6 +1,6 @@
 # File Reference
 What every `code##.js` file contains.
-There are 20 total `code.js` files, and they contain the defining code for every scene of the game.
+There are 22 total `code.js` files, and they contain the defining code for every scene of the game.
 In addition to that, there is a file named `data.js` which contains all the definitions for assets of the game.
 This can be useful for switching out sprites and motifying their identifiers.
 In addition to that, the top of the file contains global modifiers that effect things such as the window size, screen orientation, fps, etc!
