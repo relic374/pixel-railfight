@@ -3,7 +3,7 @@ If you want to contribute, add a guide. Or two. Guide topics that need to be cov
 
 1. Detailed explainations every part of each code.js file
 2. Information on different gdevelop functions & what they can do for us modders
-3. How to add a specific thing (like an example)
+3. Tutorials on how to add specific things to the game
 
 Or whatever else you can think of! Most of the time, if I dislike a guide you've made a pull request for, I will edit the file to be how I'd want it to be. 
 So don't be supprised if there are slight changes to your guide after it gets added :)
