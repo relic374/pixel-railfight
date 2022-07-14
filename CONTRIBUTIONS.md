@@ -13,4 +13,4 @@ Formatting:
 2. Make sure to break your guides up into chuncks using headers
 3. Don't worry about specifics I'll edit the guide if it isn't in the best of shape
 
-Thank you for your contributions! (or, just checking this project out :)!)
+Thank you for your contributions!
