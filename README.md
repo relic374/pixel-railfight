@@ -27,7 +27,7 @@ If you want to create a Linux app:
 
 ## Guides
 
-1. Getting_Started.md - Guide for getting started if you wanted to create what this repo has from scratch
+1. Getting_Started.md - Guide for getting started if you wanted to create what this repo has from scratch (obsolete, I paraphrased it above)
 2. File_Refference - Explainations of what every code##.js file contains
 
 To be added:
