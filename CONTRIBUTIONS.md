@@ -2,7 +2,7 @@ While contributions are greatly appreciated, please do not make a pull request t
 If you want to contribute, add a guide. Or two. Guide topics that need to be covered include:
 
 1. Detailed explainations every part of each code.js file
-2. Different gdevelop functions & what they can do for us modders
+2. Information on different gdevelop functions & what they can do for us modders
 3. How to add a specific thing (like an example)
 
 Or whatever else you can think of! Most of the time, if I dislike a guide you've made a pull request for, I will edit the file to be how I'd want it to be. 
