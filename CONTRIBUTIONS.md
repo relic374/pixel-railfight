@@ -1,5 +1,5 @@
 While contributions are greatly appreciated, please do not make a pull request to add or remove anything from the `PixelRailfight` folder.
-If you want to contribute, add a guide. Or two. Topics that need to be covered in guides include:
+If you want to contribute, add a guide. Or two. Guide topics that need to be covered include:
 
 1. Detailed explainations every part of each code.js file
 2. Different gdevelop functions & what they can do for us modders
