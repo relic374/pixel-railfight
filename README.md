@@ -15,7 +15,7 @@ Building:<br>
 3. Unzip `node_modules.zip`
 
 If you want to create a windows app:
-`electron-packager . pixelrailfight-mod --platform=win32 --asar --overwrite"`
+`electron-packager . pixelrailfight-mod --platform=win32 --asar --overwrite`
  
 If you want to create a MacOS app:
  `electron-packager . --overwrite --platform=darwin --arch=x64 --prune=true --out=release-builds --asar`
