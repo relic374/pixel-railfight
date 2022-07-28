@@ -30,5 +30,5 @@ Note: if it has (???) next to it, that means that I am uncertain what the exact 
 19. Code 20 - Script for the Tips scene (Cm)
 20. Code 21 - Minigame scene's code
 
-As you can see, there is a lot of uncertainty as to what some of these scripts do.
+As you can see, there a bit of uncertainty as to what some of these scripts do.
 Feel free to make changes if you know what one does!
