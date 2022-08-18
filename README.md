@@ -11,7 +11,7 @@ Dependencies:<br>
 
 Building:<br>
 1. Download this repo `git clone https://github.com/relic374/pixel-railfight`
-2. `cd` into `PixelRailfight/`
+2. `cd` into `pixel-railfight/PixelRailfight/`
 3. Unzip `node_modules.zip`
 
 If you want to create a windows app:
