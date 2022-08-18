@@ -40,7 +40,6 @@ To be added:
 Download the game [here](https://cmspeedrunner.itch.io/pixel-railfight)<br>
 
 Over time I will be adding more guides<br>
-I also plan on creating a modding software (named PDC, Pixel Data Compiler), that should be out in the hear future
-In addition to that, I have created a project named Hydro that easily backages electron apps. It is located on this github.
+I have created a project named Hydro that easily backages electron apps. It's useful for building your mods. It is located on this github.
 
 (Disclaimer: I got permission from the creator to upload this)
